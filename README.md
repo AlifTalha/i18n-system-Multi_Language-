@@ -16,6 +16,9 @@ http://localhost:3000/api/persons   =>
 }
 
 
+=> for get information use header  > Accept-Language   bn     => postman
+
+
 mkdir file_name
 cd file_name
 npm init -y
